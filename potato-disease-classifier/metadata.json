@@ -1,0 +1,7 @@
+{
+  "name": "Potato Disease Classifier",
+  "description": "A high-performance web application that uses a hybrid MobileNetV2 + SVM model logic to classify potato leaf diseases (Healthy, Early Blight, Late Blight) with visual confidence metrics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
